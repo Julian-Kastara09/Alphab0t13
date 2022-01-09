@@ -122,7 +122,7 @@ ${ucapannya2}
 🌻 Hari : ${thisDay}
 🗓️ Tanggal : ${ini_tanggal}
 
-ℒ⃝📲 *P H O N E  S T A T I S T I C*
+ℒ⃝📲 *Inpo Hp sya*
 🪀 Whatsapp : ${wa_version}
 📱 Merk HP : ${device_manufacturer}
 📱 Versi HP : ${device_model}
@@ -131,7 +131,7 @@ ${ucapannya2}
 🔯 MCC : ${mcc}
 ♈ MNC : ${mnc}
 
-ℒ⃝👾 *B O T  S T A T I S T I C*
+ℒ⃝👾 *Ingfo bot*
 🉐 Mode : ${status}
 ⛎ Prefix : ${prefix}
 📧 Total Hit : ${hit_today.length}
