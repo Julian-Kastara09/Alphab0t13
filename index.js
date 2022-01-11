@@ -165,8 +165,7 @@ var qr_code_gopay = 'Asu.jpeg' //gk usah di ubah ya klo gk punya ntr eror
 
 var _minggu = 'Rp 5.000,00' //Masukkan harga sewa sesuai keinginan
 var _bulan = 'Rp 10.000,00'
-var _permanen = 'Rp 15.000,00'
-var __permanen = 'Rp 20.000,00'
+var __permanen = 'Rp 15.000,00'
 
 zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
@@ -203,7 +202,7 @@ autoregister = setting.user_register
 typemenu = 'document'
 img = setting.img
 apiku = 'https://zeeoneofc.github.io/'
-gc_wa_lu = 'https://chat.whatsapp.com/Ewz6gvAGcmd8gfrRfpBke7' //klo gk punya gc wa gk usah di ganti 👍
+gc_wa_lu = 'https://chat.whatsapp.com/KlwjqjHu65aI6nLNXy1lcC' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
 fake = setting.fake
